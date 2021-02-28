@@ -1,8 +1,6 @@
 <img src='header.png'>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">Hi. I'm Rushil, Working on loads of projects since 2014🚀</div>  
   
@@ -62,7 +60,7 @@
 
 
 ## Connect with me  
-  
+placeholder
 
 <br/>  
 ## Github Stats  
