@@ -13,7 +13,6 @@
 <br/>  
 <img src = 'https://forthebadge.com/images/badges/powered-by-electricity.svg''>
 <img src = 'https://forthebadge.com/images/badges/made-with-crayons.svg'>
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## My Skillset  
 <table><tr><td valign="top" width="33%">
