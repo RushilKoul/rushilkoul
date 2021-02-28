@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
+<img src = 'https://forthebadge.com/images/badges/powered-by-electricity.svg''>
+<img src = 'https://forthebadge.com/images/badges/made-with-crayons.svg'>
 
 ## My Skillset  
 <table><tr><td valign="top" width="33%">
