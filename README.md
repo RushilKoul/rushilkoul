@@ -75,7 +75,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilkoul&hide_border=true&layout=compact" align="left" />  
 </div>  
 
 
@@ -89,6 +88,7 @@
 <br/>  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rushilkoul&&style=flat-square" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilkoul&hide_border=true&layout=compact" align="left" />  
 </div>  
 <br/>  
 <br />
