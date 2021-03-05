@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi. I'm Rushil, Working on loads of projects since 2014🚀</div>  
   
-- 🔭 I’m currently working on [Wall E](https://github.com/rushilkoul/walle)  
+- 🔭 I’m currently working on [Mello](https://rushilkoul.github.io/mello.html)  
 
 - 🌱 I’m currently learning Python and Rust  
   
