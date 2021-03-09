@@ -11,10 +11,11 @@
 - ⚡ Fun fact: I use tabs over spaces  
   
 <br/>  
-<center>
+<div align="center">
 <img src = 'https://forthebadge.com/images/badges/powered-by-electricity.svg''>
 <img src = 'https://forthebadge.com/images/badges/made-with-crayons.svg'>
-</center>
+</div>
+
                                                                         
 ## My Skillset  
 <table><tr><td valign="top" width="33%">
