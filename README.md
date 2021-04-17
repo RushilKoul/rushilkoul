@@ -2,11 +2,11 @@
 <div align="center">
 </div>  
 
-### <div align="center">Hi. I'm Rushil, Working on loads of projects since 2014🚀</div>  
+### <div align="center">Hi. I'm Rushil, Working on projects since 2014🚀</div>  
   
-- 🔭 I’m currently working on [Mello](https://rushilkoul.github.io/mello/mello.html)  
+- 🔭 I’m currently working on [OakScript](https://github.com/rushilkoul/oak/)  
 
-- 🌱 I’m currently learning Python and Rust  
+- 🌱 I’m currently learning [UE4](https://www.unrealengine.com/en-US/)
   
 - ⚡ Fun fact: I use tabs over spaces  
   
@@ -65,10 +65,12 @@
 
 
 ## Github Stats 
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilkoul&hide_border=true&layout=compact"/>   </div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=rushilkoul&show_icons=true&count_private=true&hide_border=true">
-
+<div align="center">
+  <div> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushilkoul&hide_border=true&layout=compact"/>   
+  </div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=rushilkoul&show_icons=true&count_private=true&hide_border=true">
+</div>
 <br/>  
 
 
