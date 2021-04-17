@@ -4,7 +4,7 @@
 
 ### <div align="center">Hi. I'm Rushil, Working on projects since 2014🚀</div>  
   
-- 🔭 I’m currently working on [OakScript](https://github.com/rushilkoul/oak/)  
+- 🔭 I’m currently working on [OakScript](https://github.com/rushilkoul/oakscript/)  
 
 - 🌱 I’m currently learning [UE4](https://www.unrealengine.com/en-US/)
   
