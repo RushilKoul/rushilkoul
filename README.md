@@ -3,11 +3,6 @@
 </div>  
 
 ### <div align="center">Hi. I'm Rushil, Working on projects since 2014🚀</div>  
-  
-- 🔭 I’m currently working on [nothing](https://github.com/rushilkoul/idk/)  
-- 🌱 I’m currently learning [UE5](https://www.unrealengine.com/en-US/)
-  
-<br/>  
 
 # 💻 Tech Stack:
 
